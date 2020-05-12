@@ -145,7 +145,7 @@ depfu/update/yarn/@types/node-13.13.5
     "@types/react-redux": "^7.1.7",
     "@types/react-transition-group": "^4.2.4",
     "@types/styled-components": "^5.0.1",
-    "electron": "^8.2.0",
+    "electron": "^8.2.5",
     "electron-builder": "^22.4.1",
     "electron-notarize": "^0.3.0",
     "jest": "^25.2.7",
